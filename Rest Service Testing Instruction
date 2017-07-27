@@ -1,0 +1,13 @@
+Test Service testing with Visual Studio
+List of test cases:
+•	Add_User_Data.
+•	Remove_User_Data.
+•	Close_Host_Test.
+•	Host_Creation_Test.
+•	Open_Host_Test.
+If you want test the solution:
+•	Open Rest Service Testing folder.
+•	Double click Rest Service Testing.sln to open in Visual Studio.
+•	Find Test Explorer and click Run All to execute all tests.
+If you want to execute a test case:
+•	Right click chosen test and left click Run Selected Tests.
